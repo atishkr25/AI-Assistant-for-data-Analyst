@@ -1,0 +1,17 @@
+emp_id,name,department,role,salary,experience_years,performance_score,city
+101,Aarav Sharma,Engineering,Software Engineer,85000,4,4.2,Bengaluru
+102,Diya Patel,Marketing,Growth Lead,72000,5,4.5,Mumbai
+103,Rohan Verma,Engineering,Backend Engineer,92000,6,4.8,Bengaluru
+104,Isha Gupta,Sales,Account Executive,61000,3,3.9,Delhi
+105,Kabir Singh,Engineering,DevOps Engineer,98000,7,4.6,Pune
+106,Meera Nair,HR,HR Manager,68000,5,4.1,Mumbai
+107,Arjun Reddy,Sales,Sales Manager,89000,8,4.7,Hyderabad
+108,Anaya Joshi,Design,UI/UX Designer,74000,4,4.3,Bengaluru
+109,Vivaan Malhotra,Finance,Financial Analyst,79000,4,4.0,Delhi
+110,Sara Khan,Marketing,Content Strategist,64000,3,3.8,Mumbai
+111,Aditya Rao,Engineering,Data Scientist,105000,6,4.9,Bengaluru
+112,Pooja Mehta,HR,Talent Acquisition,59000,2,3.7,Pune
+113,Siddharth Das,Finance,Senior Accountant,82000,6,4.2,Kolkata
+114,Neha Kapoor,Sales,Sales Associate,54000,2,3.6,Delhi
+115,Rishi Kulkarni,Engineering,Full Stack Engineer,88000,5,4.4,Bengaluru
+
